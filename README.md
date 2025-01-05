@@ -1,0 +1,1 @@
+This code creates a timer in a web browser that cannot be turned of until completion. This is meant to encourage a user to work for a given time.
